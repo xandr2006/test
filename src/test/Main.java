@@ -29,7 +29,8 @@ public class Main {
         //    }
         //}
         //System.out.println(getNewIndex(mapAdr));
-        //Cart.Add("Adr");
+        //Add("Adr");
+        System.out.println(My.test());
     }
 
     //public static HashMap<String, String> createAdresa()
@@ -104,7 +105,6 @@ public class Main {
         String z;
         if (Obj.equals("Adr")) {
             System.out.println("Enter new address:");
-            //
             System.out.println(My.RS());
         }
         else if (Obj.equals("Mod"))

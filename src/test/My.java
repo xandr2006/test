@@ -20,5 +20,9 @@ public class My {
         {
             My.RS();
         }
+        public static String test()
+        {
+            return "test ok";
+        }
     }
 
