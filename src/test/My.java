@@ -23,7 +23,7 @@ public class My {
 
         public static void readLn() throws Exception
         {
-            My.RS();
+            My.RS();//
         }
         public static String test()
         {
