@@ -104,8 +104,7 @@ public class Main {
         String z;
         if (Obj.equals("Adr")) {
             System.out.println("Enter new address:");
-            z = My.RS();
-            System.out.println(z);
+            System.out.println(My.RS());
         }
         else if (Obj.equals("Mod"))
         {
